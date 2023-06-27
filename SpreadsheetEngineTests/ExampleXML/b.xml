@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><spreadsheet>
+<cell name="A1">
+	<fake>adfasd</fake>
+	<text>b</text>
+	<random>asdfa</random>
+</cell>
+<notcell>
+	<fake>fasdfa</fake>
+</notcell>
+</spreadsheet>

@@ -1,0 +1,15 @@
+<spreadsheet>
+	<cell name="A1">
+		<text>Hi</text>
+		<bgcolor>FF80AA</bgcolor>
+	</cell>	
+	<cella name="A1">
+		<text>NOTHi</text>
+		<bgcolor>FF80AA</bgcolor>
+	</cella>
+	<cell name="B2">
+		<text>=A1+A2</text>
+		<bgcolor>FF80AA</bgcolor>
+	</cell>
+
+</spreadsheet>

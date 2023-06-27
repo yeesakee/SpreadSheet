@@ -1,0 +1,11 @@
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.exe.config
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.exe
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.pdb
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\bin\Debug\SpreadsheetEngine.dll
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\bin\Debug\SpreadsheetEngine.pdb
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.AssemblyReference.cache
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.CopyComplete
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.exe
+\\Mac\Home\Cpts321\cpts321-hws\Spreadsheet_Yeesa_Kee\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.pdb
